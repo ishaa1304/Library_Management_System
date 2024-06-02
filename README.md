@@ -25,5 +25,16 @@ The City Library Management System is a web application designed to facilitate t
 4. Run the Flask application (app.py).
 5. Access the application in a web browser.
 
+**The cart icon is also a button to view borrowed books.
+You can also add books using add books feature.
+If users have borrowed all copies of one book it will show you that the book is out of stock.**
+
+![image](https://github.com/ishaa1304/Cloud_Scale_Assignment/assets/76875905/86c70a8b-56b2-4eff-8682-087a2268428e)
+![image](https://github.com/ishaa1304/Cloud_Scale_Assignment/assets/76875905/74469320-c937-4594-9422-5c12b11a3580)
+![image](https://github.com/ishaa1304/Cloud_Scale_Assignment/assets/76875905/f71c4fbf-e9ff-42a2-b756-19a7a73fcb48)
+![image](https://github.com/ishaa1304/Cloud_Scale_Assignment/assets/76875905/9957f57a-c62b-4eac-acf6-1dcb73bce2ab)
+
+
+
 **Contributors** 
 1. Isha Deo 
